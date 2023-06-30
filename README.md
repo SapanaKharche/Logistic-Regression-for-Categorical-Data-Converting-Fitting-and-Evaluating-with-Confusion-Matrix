@@ -1,0 +1,2 @@
+# Logistic-Regression-for-Categorical-Data-Converting-Fitting-and-Evaluating-with-Confusion-Matrix
+I used logistic regression for this categorical data, converting X and Y into independent and dependent variables using the iloc method. After importing and fitting the model, I obtained actual and predicted values. The accuracy of the model was assessed using a confusion matrix to determine the number of correctly classified observations.
